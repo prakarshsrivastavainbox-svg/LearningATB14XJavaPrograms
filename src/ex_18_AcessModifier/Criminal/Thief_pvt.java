@@ -1,4 +1,4 @@
-package ex_18_AcessModifier.Criminal;
+/*package ex_18_AcessModifier.Criminal;
 
 import ex_18_AcessModifier.Police.Cop_Pvt;
 
@@ -8,3 +8,4 @@ public class Thief_pvt {
         //Private is used only in the class hence can not be used in itapackages
     }
 }
+*/

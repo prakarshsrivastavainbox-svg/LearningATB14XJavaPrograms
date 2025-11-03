@@ -1,4 +1,4 @@
-package ex_18_AcessModifier.Police;
+/*package ex_18_AcessModifier.Police;
 
 public class Cop_protected {
     public static void main(String[] args) {
@@ -8,3 +8,4 @@ public class Cop_protected {
 
     }
 }
+*/

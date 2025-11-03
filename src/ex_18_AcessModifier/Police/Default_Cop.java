@@ -1,4 +1,4 @@
-package ex_18_AcessModifier.Police;
+/*package ex_18_AcessModifier.Police;
 
 public class Default_Cop {
     public static void main(String[] args) {
@@ -6,3 +6,4 @@ public class Default_Cop {
         jd.thisdefault(); // This is also working with the package, working like protected one
     }
 }
+*/
