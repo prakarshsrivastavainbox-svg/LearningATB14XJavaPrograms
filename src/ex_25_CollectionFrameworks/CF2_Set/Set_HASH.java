@@ -1,4 +1,4 @@
-package ex_25_CollectionFrameworks.CF_Set;
+package ex_25_CollectionFrameworks.CF2_Set;
 
 import java.util.HashSet;
 import java.util.*;

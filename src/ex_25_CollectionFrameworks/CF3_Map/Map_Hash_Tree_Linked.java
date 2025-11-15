@@ -1,4 +1,4 @@
-package ex_25_CollectionFrameworks.Map;
+package ex_25_CollectionFrameworks.CF3_Map;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

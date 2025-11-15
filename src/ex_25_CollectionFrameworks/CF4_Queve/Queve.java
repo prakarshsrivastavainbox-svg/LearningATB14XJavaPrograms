@@ -1,4 +1,4 @@
-package ex_25_CollectionFrameworks.Queve;
+package ex_25_CollectionFrameworks.CF4_Queve;
 
 import java.util.*;
 

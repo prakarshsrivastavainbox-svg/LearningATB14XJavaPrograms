@@ -1,4 +1,4 @@
-package ex_25_CollectionFrameworks.CF_List;
+package ex_25_CollectionFrameworks.CF1_List;
 
 import java.util.LinkedList;
 import java.util.List;
